@@ -1,5 +1,32 @@
-# 💫 About Me:
-# 👋 Hi, I'm Roshan<br><br>### 🚀 Cybersecurity Enthusiast • Ethical Hacking Learner • Developer • AI Explorer<br><br>Passionate about building innovative digital products, exploring cybersecurity,  <br>leveraging AI tools, and creating modern web and mobile applications.<br><br>I enjoy learning emerging technologies, solving complex problems,  <br>and transforming ambitious ideas into real-world solutions.
+<div align="center">
+
+<h1>👋 Hi, I'm Roshan</h1>
+
+<h3>
+  <span style="color:#58A6FF;">🚀 Cybersecurity Enthusiast</span>
+  •
+  <span style="color:#A371F7;">Ethical Hacking Learner</span>
+  •
+  <span style="color:#3FB950;">Developer</span>
+  •
+  <span style="color:#F0883E;">AI Explorer</span>
+</h3>
+
+<p>
+  <sub>
+    Passionate about building innovative digital products, exploring cybersecurity,<br>
+    leveraging AI tools, and creating modern web and mobile applications.
+  </sub>
+</p>
+
+<p>
+  <sub>
+    I enjoy learning emerging technologies, solving complex problems,<br>
+    and transforming ambitious ideas into real-world solutions.
+  </sub>
+</p>
+
+</div>
 
 
 # 💻 Tech Stack:
